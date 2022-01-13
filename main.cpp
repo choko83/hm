@@ -4,7 +4,7 @@
 using namespace std;
 
 /*
-         Este Programa é bem simples
+                 Este Programa é bem simples
 		 Consiste em calcular 3 notas e caso a nota seja > 24 = aprovado, > 12 = recuperação e caso nenhuma das 2 reprovado
 		 primeiro programa que eu fiz utilizando goto e system :D
 		 https://www.youtube.com/watch?v=AiqG9UZoOLI&list=PLx4x_zx link da aula que aprendi a fazer isso
